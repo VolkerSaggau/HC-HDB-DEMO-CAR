@@ -1,0 +1,6 @@
+./**/node_modules/
+.env*
+.DS_Store
+Connection.json
+GIT*
+/db/node_modules/
