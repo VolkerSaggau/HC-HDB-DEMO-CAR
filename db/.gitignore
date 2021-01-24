@@ -3,4 +3,4 @@
 .DS_Store
 Connection.json
 GIT*
-/db/node_modules/
+db/node_modules/

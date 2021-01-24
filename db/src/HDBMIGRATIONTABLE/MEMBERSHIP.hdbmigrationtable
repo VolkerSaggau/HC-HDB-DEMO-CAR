@@ -1,0 +1,9 @@
+== version = 1
+
+column table "MEMBERSHIP" (
+   "TEAMID"                                 BIGINT                                                    NOT NULL,
+   "PERSONID"                               BIGINT                                                    NOT NULL
+, primary key cpbtree ( 
+     TEAMID,
+     PERSONID)
+)

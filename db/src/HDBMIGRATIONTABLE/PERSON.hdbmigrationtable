@@ -1,0 +1,9 @@
+== version = 1
+
+column table "PERSON" (
+   "PERSONID"                               BIGINT                                                    NOT NULL,
+   "FIRSTNAME"                              NVARCHAR(100),
+   "LNAME"                                  NVARCHAR(100)
+, primary key cpbtree ( 
+     PERSONID)
+)
